@@ -1,5 +1,5 @@
+#summary How to generate builder pattern code.
 #labels Featured
-#How to generate builder pattern code.
 
 = Generate a builder =
 
